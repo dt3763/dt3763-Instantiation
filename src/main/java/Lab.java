@@ -17,7 +17,11 @@ public class Lab {
      *
      * @return any object.
      */
+    
     public Object instantiateANewObject(){
-        return null;
+        Object cat;
+        cat = new Object();
+       
+        return cat;
     }
 }
